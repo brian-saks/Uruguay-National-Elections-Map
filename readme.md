@@ -1,7 +1,7 @@
 
 # 🗳️ Uruguay National Elections Map
 
-This is a map of Uruguay with every voting centre in de city of Montevideo for the National Elections of 2024. 
+This is an interactive map of Uruguay with every voting centre in de city of Montevideo for the National Elections of 2024. 
 
 ## About
 This proyect is designed to help people visualize their assigned voting centers for the National Elections of Uruguay in 2024.
