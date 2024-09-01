@@ -3,10 +3,10 @@ from folium.plugins import Search
 import convertor
 
 
-file_path = 'archivos/MONTEVIDEO FINAL - Hoja 1.tsv'
+file_path = 'votingCenters.csv'
 
 # Obtain Local objects from the TSV file
-locales = convertor.procesar_tsv(file_path)
+locales = convertor.procesar_csv(file_path)
 
 # Convert Local objects to the data array format
 data = []
