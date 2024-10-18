@@ -32,7 +32,7 @@ for item in data:
     <div style="font-family: Arial; font-size: 11px;">
         <h2 style="font-size: 16px; font-weight: bold;">{item['name']}</h2>
         <h4 style="font-size: 12px; font-style: italic;">{item['address']}</h4>
-        <p><strong>Circuits:</strong></p>
+        <p><strong>Circuitos:</strong></p>
         <ul>
             {''.join([f'<li>{circuit}</li>' for circuit in item['circuits']])}
         </ul>
