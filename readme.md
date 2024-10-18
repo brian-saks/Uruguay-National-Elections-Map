@@ -17,7 +17,7 @@ To make navigation easier, a search bar is also included, allowing users to quic
 ## Instalation
 Clone the repositry
 
-        git clone https://github.com/brian-saks/
+        git clone https://github.com/brian-saks/Uruguay-National-Elections-Map
 
 ## Usage
 
